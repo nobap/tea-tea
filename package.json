@@ -1,5 +1,5 @@
 {
-  "name": "tea",
+  "name": "tea-tea",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nobap/tea.git"
+    "url": "git+https://github.com/nobap/tea-tea.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nobap/tea/issues"
+    "url": "https://github.com/nobap/tea-tea/issues"
   },
-  "homepage": "https://github.com/nobap/tea#readme",
+  "homepage": "https://github.com/nobap/tea-tea#readme",
   "dependencies": {
     "advanced-math-toolkit": "^1.0.0",
     "complex-package-minhhnob": "^1.0.0",
